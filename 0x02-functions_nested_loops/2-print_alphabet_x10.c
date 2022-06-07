@@ -2,7 +2,7 @@
 
 /**
  *
- *  Prints the alphabet 10 times.
+ * Prints the alphabet 10 times.
  *
  * Return: Always 0 (Success)
  */
