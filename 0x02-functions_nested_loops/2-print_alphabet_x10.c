@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- *
  * prints the alphabet 10 times.
  *
  * Return: Always 0 (Success)
